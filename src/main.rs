@@ -1,7 +1,7 @@
 use std::fs::File;
 use std::io::Read;
 use std::path::Path;
-use sdl2::event::Event;                  // Fixed: was sd12 (number 1 not letter l)
+use sdl2::event::Event;
 use sdl2::keyboard::Keycode;
 use sdl2::pixels::PixelFormatEnum;
 use sdl2::render::TextureCreator;
